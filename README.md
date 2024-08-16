@@ -1,2 +1,2 @@
 # MLMDS_deploy_forecast
-Deploy forcast with secrets mangement
+Deploy forecast with secrets mangement
